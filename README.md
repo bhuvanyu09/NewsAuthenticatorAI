@@ -63,8 +63,8 @@ The dataset is preprocessed to handle missing values and combined `author` and `
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Fake-News-Detector.git
-   cd Fake-News-Detector
+   git clone https://github.com/bhuvanyu09/NewsAuthenticatorAI.git
+   cd NewsAuthenticatorAI
    ```
 2. Install the required dependencies:
    ```bash
